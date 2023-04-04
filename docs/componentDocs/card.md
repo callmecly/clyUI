@@ -4,12 +4,12 @@
 
 ### 实例
 
-<cly-card imgSrc="/logo.png" summary="Vue" />
+<cly-card imgSrc="/clyUI/logo.png" summary="Vue" />
 
 ### 代码
 
 ```html
-<cly-card imgSrc="/logo.png" summary="Vue" />
+<cly-card imgSrc="/clyUI/logo.png" summary="Vue" />
 ```
 
 ### Attributes
